@@ -1,0 +1,143 @@
+
+.fondo{
+    background: #67f1d3;
+    
+    color: rgb(25, 81, 85);
+
+
+}
+.container_sesion{
+    width: 35%;
+    height: 300px;
+    
+    background: #5c34cb61;
+    color: rgb(27, 85, 63);
+    font-size: 16px;
+    font-weight: bolder;
+    border-bottom: solid 2px rgb(255, 0, 0);
+    border: none;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 50px;
+}
+.container{
+    width: 55%;
+    height: 400px;
+    
+    background: #5c34cb61;
+    color: rgb(27, 85, 63);
+    font-size: 16px;
+    font-weight: bolder;
+    border-bottom: solid 2px rgb(255, 0, 0);
+    border: none;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+
+.ocultar {
+    display: none;
+}
+ 
+.mostrar {
+    display: block;
+}
+
+.tabla{
+    width: 90%;
+    height: 90%;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 30px;
+}
+.container_user{
+    
+    background: #5c34cb61;
+    width: 55%;
+    height: 408px;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.container_ficha_encabezado{
+    
+    background: #5c34cb21;
+    width: 85%;
+    height: 450px;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.container_ficha{
+    
+    background: #5c34cb21;
+    width: 85%;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 20px;
+}
+.container_ficha_ver_gc{
+    background: #5c34cb21;
+    width: 85%;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 20px;
+}
+.container_ver_ficha_aprobada{
+    background: #5c34cb21;
+    width: 85%;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.form-control--edit{
+    height: 150px;
+    text-align: justify;
+
+}
+
+.form-control--edit2{
+    margin-left:15% ;
+    height: 150px;
+    width: 70%;
+    text-align: justify;
+
+}
+.form-control--edita{
+    width: 70%;
+    text-align: justify;
+
+}
+.col-md-6{
+    margin: auto;
+
+}
+
+.btn-iniciar-sesion{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-group{
+    margin: 7px;
+    
+}
+.row{
+    margin: 5px;
+    text-align: center;
+
+}
+.hijo{
+    justify-content: center;
+  
+
+}
+.btn{
+    margin: 7px;
+
+}
